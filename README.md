@@ -31,3 +31,7 @@ Minimize looks for a newer version once a day. It never installs one without a y
 ## Problems
 
 Tell me on the [Issues](https://github.com/ntbrackett01/minimize/issues) page.
+
+## No warranty
+
+Minimize is free and comes as is, with no warranty. Use it at your own risk.
